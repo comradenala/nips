@@ -1,4 +1,4 @@
-# NIP-XX: Workspaces
+# NIP-XX: norg: Nostr Organizational Roster Groups
 
 ## Abstract
 
