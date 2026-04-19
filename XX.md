@@ -1,4 +1,4 @@
-# NIP-XX: norg: Nostr Organizational Roster Groups
+# NIP-XX: Nostr Organizational Roster Groups
 
 ## Abstract
 
